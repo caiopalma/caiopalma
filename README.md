@@ -64,8 +64,6 @@ In the mean time, I'm building my own Container Registry, Data Storage and K8s p
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/a7000922-ba19-4cb9-a02e-d77559382c50" alt="Hono" width="48"/>
   
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/1dba1165-6f68-4d31-b72c-734bfc699780" alt="PlayWright" width="48"/>
-  
-  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/ae49b7c1-65d3-4fd4-a63b-c876b5bf7689" alt="Jest" width="44"/>
 
 - OS
   
