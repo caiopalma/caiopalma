@@ -46,6 +46,8 @@ In the mean time, I'm building my own Container Registry, Data Storage and K8s p
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/57b7bf78-2b42-4971-a565-e6c7b65438ca" alt="SQLite3" width="96"/>
 
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/eed68c3b-54e9-4569-bc89-b71714226eae" alt="Redis" width="48"/>
+
+  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/e6bfdf7b-5f2c-44a5-9b86-beed4e78e2c4" alt="Supabase" width="48"/>
  
 - Versioning
 
