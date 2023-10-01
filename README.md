@@ -25,12 +25,13 @@ In the mean time, I'm building my own Container Registry, Data Storage and K8s p
   
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/c98599d1-822b-4242-93c7-6b2aa2e132fe" alt="Fast API " width="156"/>
 
-
 - Builders, Wrappers, Package Manager, VM...
 
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/0163a23a-0f72-477b-b2ef-90d72610b970" alt="Gradle" width="48"/>
   
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/21999b8a-6b3e-4e9a-b6f6-fed3e590afec" alt="GraalVM" width="96"/>
+
+  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/02c9a86f-02c2-4a96-b411-440cea9da8dc" alt="Poetry" width="48"/>
 
 - Containers
 
@@ -68,6 +69,11 @@ In the mean time, I'm building my own Container Registry, Data Storage and K8s p
 
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/1550b5f9-70b4-413c-b5e0-71ad8fdbf918" alt="Fedora" width="48"/>
 
+- Editors
+
+  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/88fe75b6-f8da-4163-a67d-a32562b93c6d" alt="Netbeans" width="48"/>
+
+  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/9a616edf-a7de-499f-bd91-271b4ed2abb3" alt="VSCode" width="48"/>
 
   
   
