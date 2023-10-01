@@ -2,7 +2,7 @@
 
 ### I'm a mad scientist 🧪 trying to conquer the data world! 💾 🌎
 
-My personal goal is to be a good data engineer.
+My personal goal is to be a legendary data engineer.
 
 I'm currently learning about GitHub Actions and Data Ingestion on Go Lang.
 
