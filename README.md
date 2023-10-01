@@ -31,7 +31,7 @@ In the mean time, I'm building my own Container Registry, Data Storage and K8s p
   
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/21999b8a-6b3e-4e9a-b6f6-fed3e590afec" alt="GraalVM" width="96"/>
 
-  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/02c9a86f-02c2-4a96-b411-440cea9da8dc" alt="Poetry" width="48"/>
+  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/02c9a86f-02c2-4a96-b411-440cea9da8dc" alt="Poetry" width="24"/>
 
 - Containers
 
