@@ -4,9 +4,9 @@
 
 My personal goal is to be a legendary data engineer.
 
-I'm currently learning about GitHub Actions and Data Ingestion on Go Lang.
+I'm currently learning about Go Lang and kubernetes.
 
-In the mean time, I'm building my own Container Registry, Data Storage and k8s playground known as ⚡ *ThunderCode-Server-I* ⚡.
+In the mean time, I'm building my home server known as ⚡ *ThunderCode-Server-I* ⚡.
 
 
 ## My toolbox
