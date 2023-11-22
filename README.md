@@ -61,10 +61,5 @@ In the mean time, I'm playing with groovy language.
 
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/1550b5f9-70b4-413c-b5e0-71ad8fdbf918" alt="Fedora" width="48"/>
 
-  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/9a616edf-a7de-499f-bd91-271b4ed2abb3" alt="VSCode" width="48"/>
-
   <img src="https://github.com/caiopalma/caiopalma/assets/140276412/23ff9680-b869-4f72-aa5b-0d8f91d0cb6d" alt="Devcontainers" width="48"/>
 
-  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/88fe75b6-f8da-4163-a67d-a32562b93c6d" alt="Netbeans" width="48"/>
-
-  <img src="https://github.com/caiopalma/caiopalma/assets/140276412/48717e6b-ca11-4ae3-8c78-5928e3ecfa2f" alt="Intellij" width="48"/>
